@@ -30,19 +30,58 @@ Um bot de música incrível para seu servidor.
   <summary>Plataformas (Platforms)</summary>
   
   ### Avaliable platforms
-  * <i class='fa fa-youtube-play' style='font-size:24px'></i> YouTube
-  * <i class='fa fa-spotify' style='font-size:24px'></i> Spotify
-  * <i class='fa fa-music' style='font-size:24px'></i> Deezer
-  * <i class='fa fa-music' style='font-size:24px'></i> TuneIN Radio
-  * <i class='fab fa-twitch' style='font-size:24px'></i> Twitch
-  * <i class='fa fa-soundcloud' style='font-size:24px'></i> SoundCloud
-  * <i class='fab fa-facebook' style='font-size:24px'></i> Facebook Watch
-  * <i class='fab fa-vimeo-v' style='font-size:24px'></i> Vimeo
-  * <i class='fab fa-bandcamp' style='font-size:24px'></i> Bandcamp
-  * <i class='fa fa-music' style='font-size:24px'></i> Stream URLs
+  #### Veja como usá-las
+  * <details>
+    <summary>YouTube</summary>
 
-### Várias plataformas para você se divertir ouvindo, tudo, sem anúncios
+    ```js https://youtube.com/playlist?list={ID}```
+    </details>
+  * <details>
+    <summary>Spotify</summary>
+
+    ```js https://open.spotify.com/playlist/{unique ID}```
+    </details>
+  * <details>
+    <summary>Deezer</summary>
+
+    ```js https://deezer.com/{country)/album/{album ID}```
+    </details>
+  * <details>
+    <summary>TuneIN Radio</summary>
+
+    ```js https://tunein.com/radio/{name-and-ID}```
+    </details>
+  * <details>
+    <summary>Twitch</summary>
+
+    ```js https://www.twitch.tv/{streamer_link}```
+    </details>
+  * <details>
+    <summary>SoundCloud</summary>
+    
+    ```js https://on.soundcloud.com/{ID}```
+    </details>
+  * <details>
+    <summary>Facebook Watch</summary>
+
+    ```js https://fb.watch/{ID}```
+    </details>
+  * <details>
+    <summary>Vimeo</summary>
+
+    ```js https://vimeo.com/{ID}```
+    </details>
+  * <details>
+    <summary>Bandcamp</summary>
+
+    ```js https://{username}.bandcamp.com/track/{page_name}```
+    </details>
+  * <details>
+    <summary>Stream URLs</summary>
+
+    ```js https://streams.ilovemusic.de/iloveradio14.mp3```
+    </details>
+
+  ### Várias plataformas para você se divertir ouvindo, tudo, sem anúncios
   
 </details>
-
-<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
