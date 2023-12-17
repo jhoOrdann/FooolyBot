@@ -85,3 +85,9 @@ Um bot de música incrível para seu servidor.
   ### Várias plataformas para você se divertir ouvindo, tudo, sem anúncios
   
 </details>
+
+## Links úteis (Useful links)
+* [Foooly Website](https://foooly.vercel.app)
+* [Foooly Premium](https://foooly.vercel.app/premium.html)
+* [Foooly Community](https://dsc.gg/foooly)
+* [Invite Foooly](https://foooly.vercel.app/add)
