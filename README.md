@@ -34,52 +34,52 @@ Um bot de música incrível para seu servidor.
   * <details>
     <summary>YouTube</summary>
 
-    ```js https://youtube.com/playlist?list={ID}```
+    ```https://youtube.com/playlist?list={ID}```
     </details>
   * <details>
     <summary>Spotify</summary>
 
-    ```js https://open.spotify.com/playlist/{unique ID}```
+    ```https://open.spotify.com/playlist/{unique ID}```
     </details>
   * <details>
     <summary>Deezer</summary>
 
-    ```js https://deezer.com/{country)/album/{album ID}```
+    ```https://deezer.com/{country)/album/{album ID}```
     </details>
   * <details>
     <summary>TuneIN Radio</summary>
 
-    ```js https://tunein.com/radio/{name-and-ID}```
+    ```https://tunein.com/radio/{name-and-ID}```
     </details>
   * <details>
     <summary>Twitch</summary>
 
-    ```js https://www.twitch.tv/{streamer_link}```
+    ```https://www.twitch.tv/{streamer_link}```
     </details>
   * <details>
     <summary>SoundCloud</summary>
     
-    ```js https://on.soundcloud.com/{ID}```
+    ```https://on.soundcloud.com/{ID}```
     </details>
   * <details>
     <summary>Facebook Watch</summary>
 
-    ```js https://fb.watch/{ID}```
+    ```https://fb.watch/{ID}```
     </details>
   * <details>
     <summary>Vimeo</summary>
 
-    ```js https://vimeo.com/{ID}```
+    ```https://vimeo.com/{ID}```
     </details>
   * <details>
     <summary>Bandcamp</summary>
 
-    ```js https://{username}.bandcamp.com/track/{page_name}```
+    ```https://{username}.bandcamp.com/track/{page_name}```
     </details>
   * <details>
     <summary>Stream URLs</summary>
 
-    ```js https://streams.ilovemusic.de/iloveradio14.mp3```
+    ```https://streams.ilovemusic.de/iloveradio14.mp3```
     </details>
 
   ### Várias plataformas para você se divertir ouvindo, tudo, sem anúncios
